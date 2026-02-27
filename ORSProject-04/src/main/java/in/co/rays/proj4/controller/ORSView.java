@@ -121,7 +121,38 @@ public interface ORSView {
     
     public String HOSTEL_ROOM_LIST_VIEW = PAGE_FOLDER + "/HostelRoomListView.jsp";
     public String HOSTEL_ROOM_LIST_CTL = APP_CONTEXT + "/ctl/HostelRoomListCtl";
+    
+    public String DOCTOR_VIEW = PAGE_FOLDER + "/DoctorView.jsp";
+    public String DOCTOR_CTL = APP_CONTEXT + "/ctl/DoctorCtl";
+    
+    public String DOCTOR_LIST_VIEW = PAGE_FOLDER + "/DoctorListView.jsp";
+    public String DOCTOR_LIST_CTL = APP_CONTEXT + "/ctl/DoctorListCtl";
+    
 
+    public String FEEDBACK_CATEGORY_VIEW = PAGE_FOLDER + "/FeedbackCategoryView.jsp";
+    public String FEEDBACK_CATEGORY_CTL = APP_CONTEXT + "/ctl/FeedbackCategoryCtl";
+
+    public String FEEDBACK_CATEGORY_LIST_VIEW = PAGE_FOLDER + "/FeedbackCategoryListView.jsp";
+    public String FEEDBACK_CATEGORY_LIST_CTL = APP_CONTEXT + "/ctl/FeedbackCategoryListCtl";
+
+
+    public String NOTIFICATION_VIEW = PAGE_FOLDER + "/NotificationView.jsp";
+    public String NOTIFICATION_CTL = APP_CONTEXT + "/ctl/NotificationCtl";
+
+    public String NOTIFICATION_LIST_VIEW = PAGE_FOLDER + "/NotificationListView.jsp";
+    public String NOTIFICATION_LIST_CTL = APP_CONTEXT + "/ctl/NotificationListCtl";
+    
+    public String EVENT_VIEW = PAGE_FOLDER + "/EventView.jsp";
+    public String EVENT_CTL = APP_CONTEXT + "/ctl/EventCtl";
+
+    public String EVENT_LIST_VIEW = PAGE_FOLDER + "/EventListView.jsp";
+    public String EVENT_LIST_CTL = APP_CONTEXT + "/ctl/EventListCtl";
+
+    public String INSURANCE_VIEW = PAGE_FOLDER + "/InsuranceView.jsp";
+    public String INSURANCE_CTL = APP_CONTEXT + "/ctl/InsuranceCtl";
+
+    public String INSURANCE_LIST_VIEW = PAGE_FOLDER + "/InsuranceListView.jsp";
+    public String INSURANCE_LIST_CTL = APP_CONTEXT + "/ctl/InsuranceListCtl";
 
 	public String JAVA_DOC = "/ORSProject-04/doc/index.html";
 }

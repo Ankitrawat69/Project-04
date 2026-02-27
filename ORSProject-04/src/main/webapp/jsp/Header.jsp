@@ -81,7 +81,25 @@
         
         <a href="<%=ORSView.ACCOUNT_CTL%>"><b>Add Account</b></a> |
         <a href="<%=ORSView.ACCOUNT_LIST_CTL%>"><b>Account List</b></a>|
+        
+          <a href="<%=ORSView.DOCTOR_CTL%>"><b>Add Doctor</b></a> |
+        <a href="<%=ORSView.DOCTOR_LIST_CTL%>"><b>Doctor List</b></a>|
+        
+        <a href="<%=ORSView.FEEDBACK_CATEGORY_CTL%>"><b>Add Feedback Category</b></a> |
+        <a href="<%=ORSView.FEEDBACK_CATEGORY_LIST_CTL%>"><b>Feedback Category List</b></a> |
+        
+        <a href="<%=ORSView.NOTIFICATION_CTL%>"><b>Add Notification</b></a> |
+        <a href="<%=ORSView.NOTIFICATION_LIST_CTL%>"><b>Notification List</b></a> |
 
+        <a href="<%=ORSView.FEEDBACK_CATEGORY_CTL%>"><b>Add Feedback Category</b></a> |
+        <a href="<%=ORSView.FEEDBACK_CATEGORY_LIST_CTL%>"><b>Feedback Category List</b></a> |
+        
+        <a href="<%=ORSView.EVENT_CTL%>"><b>Add Event</b></a> |
+        <a href="<%=ORSView.EVENT_LIST_CTL%>"><b>Event List</b></a> |
+        
+        <a href="<%=ORSView.INSURANCE_CTL%>"><b>Add Insurance</b></a> |
+        <a href="<%=ORSView.INSURANCE_LIST_CTL%>"><b>Insurance List</b></a> |
+        
     <% } %>
 
     <!-- Admin Only -->
