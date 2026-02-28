@@ -100,6 +100,9 @@
         <a href="<%=ORSView.INSURANCE_CTL%>"><b>Add Insurance</b></a> |
         <a href="<%=ORSView.INSURANCE_LIST_CTL%>"><b>Insurance List</b></a> |
         
+        <a href="<%=ORSView.DEPARTMENT_CTL%>"><b>Add Department</b></a> |
+        <a href="<%=ORSView.DEPARTMENT_LIST_CTL%>"><b>Department List</b></a> |
+        
     <% } %>
 
     <!-- Admin Only -->

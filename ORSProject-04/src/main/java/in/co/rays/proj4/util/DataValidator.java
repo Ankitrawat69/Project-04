@@ -153,6 +153,21 @@ public class DataValidator {
             return false;
         }
     }
+    
+    public static boolean isCode(String val) {
+
+        String rollreg = "^369[0-9]{4}$";
+
+        if (isNotNull(val)) {
+            try {
+                return val.matches(rollreg);
+            } catch (NumberFormatException e) {
+                return false;
+            }
+        } else {
+            return false;
+        }
+    }
 
     /**
      * Validates password based on the following rules:
