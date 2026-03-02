@@ -103,6 +103,9 @@
         <a href="<%=ORSView.DEPARTMENT_CTL%>"><b>Add Department</b></a> |
         <a href="<%=ORSView.DEPARTMENT_LIST_CTL%>"><b>Department List</b></a> |
         
+        <a href="<%=ORSView.PASSENGER_CTL%>"><b>Add Passenger</b></a> |
+        <a href="<%=ORSView.PASSENGER_LIST_CTL%>"><b>Passenger List</b></a> |
+        
     <% } %>
 
     <!-- Admin Only -->

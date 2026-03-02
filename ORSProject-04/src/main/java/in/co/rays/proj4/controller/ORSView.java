@@ -159,6 +159,12 @@ public interface ORSView {
 
 	public String DEPARTMENT_LIST_VIEW = PAGE_FOLDER + "/DepartmentListView.jsp";
 	public String DEPARTMENT_LIST_CTL = APP_CONTEXT + "/ctl/DepartmentListCtl";
+	
+	public String PASSENGER_VIEW = PAGE_FOLDER + "/PassengerView.jsp";
+    public String PASSENGER_CTL = APP_CONTEXT + "/ctl/PassengerCtl";
+
+    public String PASSENGER_LIST_VIEW = PAGE_FOLDER + "/PassengerListView.jsp";
+    public String PASSENGER_LIST_CTL = APP_CONTEXT + "/ctl/PassengerListCtl";
 
 	public String JAVA_DOC = "/ORSProject-04/doc/index.html";
 }
