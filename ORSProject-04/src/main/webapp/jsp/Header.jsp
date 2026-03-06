@@ -106,6 +106,15 @@
         <a href="<%=ORSView.PASSENGER_CTL%>"><b>Add Passenger</b></a> |
         <a href="<%=ORSView.PASSENGER_LIST_CTL%>"><b>Passenger List</b></a> |
         
+        <a href="<%=ORSView.GYMTRAINER_CTL%>"><b>Add Trainer</b></a> |
+        <a href="<%=ORSView.GYMTRAINER_LIST_CTL%>"><b>Trainer List</b></a> |
+        
+        <a href="<%=ORSView.EVENTBOOKING_CTL%>"><b>Add Event Booking</b></a> |
+        <a href="<%=ORSView.EVENTBOOKING_LIST_CTL%>"><b>Event Booking List</b></a> |
+        
+        <a href="<%=ORSView.SECURITY_STAFF_CTL%>"><b>Add Security Staff</b></a> |
+        <a href="<%=ORSView.SECURITY_STAFF_LIST_CTL%>"><b>Security Staff List</b></a> |
+        
     <% } %>
 
     <!-- Admin Only -->

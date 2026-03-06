@@ -166,5 +166,23 @@ public interface ORSView {
     public String PASSENGER_LIST_VIEW = PAGE_FOLDER + "/PassengerListView.jsp";
     public String PASSENGER_LIST_CTL = APP_CONTEXT + "/ctl/PassengerListCtl";
 
+    public String GYMTRAINER_VIEW = PAGE_FOLDER + "/GymTrainerView.jsp";
+    public String GYMTRAINER_CTL = APP_CONTEXT + "/ctl/GymTrainerCtl";
+
+    public String GYMTRAINER_LIST_VIEW = PAGE_FOLDER + "/GymTrainerListView.jsp";
+    public String GYMTRAINER_LIST_CTL = APP_CONTEXT + "/ctl/GymTrainerListCtl";
+    
+    public String EVENTBOOKING_VIEW = PAGE_FOLDER + "/EventBookingView.jsp";
+    public String EVENTBOOKING_CTL = APP_CONTEXT + "/ctl/EventBookingCtl";
+
+    public String EVENTBOOKING_LIST_VIEW = PAGE_FOLDER + "/EventBookingListView.jsp";
+    public String EVENTBOOKING_LIST_CTL = APP_CONTEXT + "/ctl/EventBookingListCtl";
+    
+    public String SECURITY_STAFF_VIEW = PAGE_FOLDER + "/SecurityStaffView.jsp";
+    public String SECURITY_STAFF_CTL = APP_CONTEXT + "/ctl/SecurityStaffCtl";
+
+    public String SECURITY_STAFF_LIST_VIEW = PAGE_FOLDER + "/SecurityStaffListView.jsp";
+    public String SECURITY_STAFF_LIST_CTL = APP_CONTEXT + "/ctl/SecurityStaffListCtl";
+
 	public String JAVA_DOC = "/ORSProject-04/doc/index.html";
 }
