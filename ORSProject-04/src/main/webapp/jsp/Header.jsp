@@ -115,6 +115,9 @@
         <a href="<%=ORSView.SECURITY_STAFF_CTL%>"><b>Add Security Staff</b></a> |
         <a href="<%=ORSView.SECURITY_STAFF_LIST_CTL%>"><b>Security Staff List</b></a> |
         
+        <a href="<%=ORSView.DISPATCH_CTL%>"><b>Add Dispatch</b></a> |
+        <a href="<%=ORSView.DISPATCH_LIST_CTL%>"><b>Dispatch List</b></a> |
+        
     <% } %>
 
     <!-- Admin Only -->

@@ -183,6 +183,12 @@ public interface ORSView {
 
     public String SECURITY_STAFF_LIST_VIEW = PAGE_FOLDER + "/SecurityStaffListView.jsp";
     public String SECURITY_STAFF_LIST_CTL = APP_CONTEXT + "/ctl/SecurityStaffListCtl";
+    
+    public String DISPATCH_VIEW = PAGE_FOLDER + "/DispatchView.jsp";
+    public String DISPATCH_CTL = APP_CONTEXT + "/ctl/DispatchCtl";
+
+    public String DISPATCH_LIST_VIEW = PAGE_FOLDER + "/DispatchListView.jsp";
+    public String DISPATCH_LIST_CTL = APP_CONTEXT + "/ctl/DispatchListCtl";
 
 	public String JAVA_DOC = "/ORSProject-04/doc/index.html";
 }
