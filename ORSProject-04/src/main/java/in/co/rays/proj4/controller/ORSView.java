@@ -189,6 +189,18 @@ public interface ORSView {
 
     public String DISPATCH_LIST_VIEW = PAGE_FOLDER + "/DispatchListView.jsp";
     public String DISPATCH_LIST_CTL = APP_CONTEXT + "/ctl/DispatchListCtl";
+    
+    public String HOLIDAY_VIEW = PAGE_FOLDER + "/HolidayView.jsp";
+    public String HOLIDAY_CTL = APP_CONTEXT + "/ctl/HolidayCtl";
+
+    public String HOLIDAY_LIST_VIEW = PAGE_FOLDER + "/HolidayListView.jsp";
+    public String HOLIDAY_LIST_CTL = APP_CONTEXT + "/ctl/HolidayListCtl";
+    
+    public String TRACKING_VIEW = PAGE_FOLDER + "/TrackingView.jsp";
+    public String TRACKING_CTL = APP_CONTEXT + "/ctl/TrackingCtl";
+
+    public String TRACKING_LIST_VIEW = PAGE_FOLDER + "/TrackingListView.jsp";
+    public String TRACKING_LIST_CTL = APP_CONTEXT + "/ctl/TrackingListCtl";
 
 	public String JAVA_DOC = "/ORSProject-04/doc/index.html";
 }
